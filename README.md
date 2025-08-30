@@ -13,7 +13,7 @@ A C++ program that solves a maze using **Depth-First Search (DFS)** and **Breadt
 ## How to Run
 1. Compile the program:  
    ```bash
-   g++ main.cpp -o main
+   g++ main.cpp -o a.exe
    ```
 2. Run the executable:  
    ```bash
