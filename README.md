@@ -8,7 +8,6 @@ A C++ program that solves a maze using **Depth-First Search (DFS)** and **Breadt
 - Visualizes the final path in the maze:
   - DFS path marked with `*`
   - BFS path marked with `.`
-  - 
 ---
 
 ## How to Run
